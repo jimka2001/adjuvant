@@ -21,7 +21,7 @@
 
 
 (asdf:defsystem :adjuvant-test
-  :version (:read-file-form "../version.lisp")
+  :version (:read-file-form "version.lisp")
   :author "Jim Newton"
   :description "Test cases for adjuvant package/system"
   :license "MIT"
